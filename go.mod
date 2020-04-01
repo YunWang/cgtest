@@ -1,4 +1,4 @@
-module cg-test/v0.0.1
+module cgtest/v0.0.1
 
 go 1.13
 
