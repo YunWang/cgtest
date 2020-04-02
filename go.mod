@@ -1,4 +1,4 @@
-module cgtest
+module github.com/YunWang/cgtest
 
 go 1.13
 
